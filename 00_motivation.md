@@ -3,8 +3,8 @@
 ## Why this class?
 
 During a traditional Computer Science education, chances are you will take 
-plenty of advanced classes within CS, everything from Operating Systems to 
-Programming Languages, to Machine Learning. But at many institutions there 
+plenty of advanced classes within CS, everything from _Operating Systems_ to 
+_Programming Languages_, to _Machine Learning_. But at many institutions there 
 is one essential topic that is rarely covered: computing ecosystem literacy.
 
 Computers were built to automate manual tasks, yet students often perform 
@@ -38,6 +38,3 @@ you machine clean & tidy.
 
 - Security: How to effectively and efficiently manage computer security. Basics
 of encryption, computer network security etc.
-
-
-

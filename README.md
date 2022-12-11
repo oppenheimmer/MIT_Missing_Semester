@@ -1,6 +1,6 @@
-# The Missing Semester of Your CS Education
+# The Missing semester of your CS education
 
-# Motivation
+## Motivation
 
 As computer scientists, we know that computers are great at aiding in
 repetitive tasks and automation. However, far too often, we forget that 
