@@ -186,7 +186,7 @@ and options are available. For example, `ls --help` tells us:
 
 ```console
 missing:~$ ls -l /home
-drwxr-xr-x 1 missing  users  4096 Feb 8  2022 missing
+drwxr-xr-x 1 sam  users  4096 Feb 8  2022 missing
 ```
 
 This gives us a bunch more information about each file or directory
@@ -216,7 +216,7 @@ directory.
 Some other handy programs to know about at this point are :
 
    * `mv` (to rename or move a file; takes two paths as arguments) 
-   * `cp` (to copy a file; takes a source and destination arguments) 
+   * `cp` (to copy a file; takes source and destination arguments) 
    * `rm` (remove a file. `-r` makes it recursively delete everything)
    * `mkdir` (to make a new directory)
    * `rmdir` (to remove empty directory)
@@ -227,9 +227,6 @@ outputs, or how it works in general, give the `man` program a try. It
 takes as an argument the name of a program, and shows you its _manual
 page_. Press `q` to exit it.
 
-```console
-missing:~$ man ls
-```
 
 ## Connecting programs
 
@@ -279,7 +276,7 @@ drwxr-xr-x 1 root  root  4096 Jun 20  2019 var
 ```
 
 These program do not know about each other's I/O. They are connected 
-by pipe.
+by a pipe.
 
 
 ## A versatile and powerful tool
